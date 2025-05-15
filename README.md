@@ -1,4 +1,4 @@
-# AXOM-FB-HACK
+# KRIS-FB-HACK
 #facebook hacking tool for termux or linux 2020
 #Only use token for login or Dont use real id
 
@@ -71,7 +71,7 @@ $ apt install git
 
 $ apt install python2
 
-$ git clone https://github.com/dAYOShACKER505/AXOM-FB-HACK
+$ git clone https://github.com/kenrupogisalahat/AXOM-FB-HACK
 
 $ cd AXOM-FB-HACK
 
